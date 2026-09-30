@@ -1,0 +1,2 @@
+# Keep the preview GIF out of downloaded and release archives.
+Media/Preview/ export-ignore
