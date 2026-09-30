@@ -1,6 +1,6 @@
 # Refined Radial Menu
 
-A simple radial menu for World of Warcraft. Hold a key, point, let go. Works in combat.
+A simple secure radial menu for World of Warcraft. Drag and drop abilities. Hold a key, point, let go. Works in combat.
 
 Bind it under **Key Bindings → Refined Radial Menu** (it grabs F8 if nothing else is using it).
 
