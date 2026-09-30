@@ -1,0 +1,16 @@
+## Interface: 120100
+## Title: |cffffd200Refined|r Radial Menu
+## Notes: A secure radial action menu. Hold the keybind, point, release.
+## Author: Enkiduke
+## Version: 2026.09.30
+## SavedVariables: RefinedRadialMenuDB
+## IconTexture: Interface\AddOns\RefinedRadialMenu\Media\Logo
+## Bindings: Bindings.xml
+
+Shared.lua
+Style.lua
+Core.lua
+Ring.lua
+Visuals.lua
+Customization.lua
+RefinedRadialMenu.lua
